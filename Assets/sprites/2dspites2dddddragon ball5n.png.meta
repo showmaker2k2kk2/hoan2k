@@ -1,0 +1,3811 @@
+fileFormatVersion: 2
+guid: 6ef2ff66144a4bb4084bd55b98f0786c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1306
+        width: 244
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad6d881b1c7d84c8e1bbb4382ba649
+      internalID: 1314161525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1247
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd3ea6483fd474ea7ed896caa2038e
+      internalID: -1551574614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1249
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9243b30e7652948b40e12cf4f2abf1
+      internalID: 1250227853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1244
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae04f9cb606544a4089ef4b9e4a075ee
+      internalID: 1058478410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1249
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684defdd0d2046e459f960235d258c8f
+      internalID: 762049442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1249
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd1fa671ec8364b9363502ab960f55
+      internalID: -1573009022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1244
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c81e1d164efd941838233d4174be49
+      internalID: 556463690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1154
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f725a453c55daa479e32c4501991989
+      internalID: -1525753879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1153
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0d8f55c6539148a5e00e3bafa5229
+      internalID: -1964991528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c166998122c25e45b4e4a2a0a407a26
+      internalID: 2068452002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1152
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699ab09aeb72194587af5866f6fbe17
+      internalID: 1229406384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1152
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125e8a68c688fd48a5c014cad55b8a4
+      internalID: -1805777089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1156
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311d00f6d694d843be7eb993b901503
+      internalID: 1512184149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1149
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4360850867aa3f545811a00acb8710d0
+      internalID: -2133026721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1150
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc2b77bbc061746a351b982eee5ac1
+      internalID: 960643169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1151
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc819347f6822a4686b5c578ce1c6c7
+      internalID: -1907770037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1151
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e069ef8985e48045b4e847af67ef57d
+      internalID: 1454803349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1119
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3bb8838684ca345a0285efed50beb2
+      internalID: 2060108309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1052
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dcb746a1d36f64db203447e52cc621
+      internalID: 2138194330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1057
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac708638d2e924a958d6c091c60be7
+      internalID: -1711506606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1057
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436e7ab33c2ae247839d8ba1e09390f
+      internalID: -1991805721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1056
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ea777c89546f43a391a2d7979af0d
+      internalID: 281886252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1056
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d4add9fbed1e4eb9cad2857bda0de
+      internalID: 923437144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1057
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162adc6864dab542887b4d68c36b91f
+      internalID: -897338128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1057
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3161710c96bd56045b5399931bcc53f6
+      internalID: -1067351386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1057
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895ddb43e0ee5a44afbd357e890419c
+      internalID: -1822911678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1057
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513403808aad81340be1a913b62ae61a
+      internalID: -22073542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1057
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5facb2359394a24d90e9ba8c08d79f1
+      internalID: 799160366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1057
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e544d8e4619e458bf5f1e37d5a421
+      internalID: -70157768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1057
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d85ce3e76781498b133ba9a7cae8e
+      internalID: 200589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1058
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f268828f9433f4fafb5e63df572b49
+      internalID: -752140725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1058
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bab95bfe926ac4b96826a5b599737d
+      internalID: -1430442431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_32
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1061
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8998e836c288ba94e8e3a11704532e05
+      internalID: 715928514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1061
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453a6ca4a56a3a42bc900320a63a32f
+      internalID: 1006441986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1060
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482feb68ad10782448321dadf15a38ad
+      internalID: 931970293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1061
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9902379f6142e4c906d6e9102d5700
+      internalID: -813135574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 956
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78b1346d67a2a4b8a19725f55268fd
+      internalID: -1473546045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 960
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da907d26d4a7a4699cf69e1a007e91
+      internalID: -1675713172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 959
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2868a116307d640b262305ba75c49e
+      internalID: -529561099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 959
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd02d5e654ce7e44a77254550e8a8e1
+      internalID: -1107887430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 958
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33cb8df66944ee44bc12f1cd9985713
+      internalID: -655082564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 959
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe15d737a62de47b4e8ad9b703112d
+      internalID: 1291433339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 957
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e49c4967d2531458264db1b0486159
+      internalID: -350394145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 957
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f4e6782ac886a47981380fdd08eb0c
+      internalID: 1656459521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 955
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934374697d5fff24589b7c0d53c89ad7
+      internalID: -268680714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 955
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5b91479f5a45419dd70052c403d97
+      internalID: 804821181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 954
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e620e54823511642a0f329c4c705fe9
+      internalID: -1629096401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 954
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e4157f8b54bd40ba6b4643eafb522
+      internalID: 2095304930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 956
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79335b202225404a96afe72853c1a07
+      internalID: 603061238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 952
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465f69d60e71a44a822fe5da2053026
+      internalID: -1520135963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_50
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 993
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d87e0fa31fb0e43aebbcedcdd4339e
+      internalID: -1920430989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 958
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aafc2a2dfba1a4aaf680d00c73bf1f
+      internalID: 2007150110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 931
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c38655b33d5e469f4289483811964
+      internalID: 965232335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 869
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b456a18050a8843978bf8f814a9fce
+      internalID: 282325878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 867
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499dc0c797c8ffa409501f8069c299ad
+      internalID: -1117494749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 868
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c66e91c08edd4ebdde44391e60a41
+      internalID: -1763117811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 869
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f53cb9da941bd46b623abc6e90067f
+      internalID: 98058877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 869
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7918cccd4299419b40e90cf509538
+      internalID: -1759311328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 870
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f1fd0dcdeb7d84992cff7f5c1eba21
+      internalID: -1510343476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 870
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdf3a028a061e44b9f4e5205e49a9a
+      internalID: -990420416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 868
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81da0ded57e8e419947cb13263b8bd
+      internalID: 474070569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 870
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3313457d32c1db48b5b1b1cc120be86
+      internalID: -138111715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 869
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49fa2a22705e74b9209fd9ec984c38
+      internalID: 1893803529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_64
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 866
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb50a19358fd449879ae051b83fbe1
+      internalID: -283902830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_65
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 866
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154bbf7e97204d4db998767c80c323a
+      internalID: 764559286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_66
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 866
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616cf20257a1de41b4b98b017104626
+      internalID: -397954776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 869
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65d0e99014cb94691a4f4e16b454c5
+      internalID: 1207504571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_68
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 869
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e2fd9a8b03d646a4919c7ba9316e0
+      internalID: -207999045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_69
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 869
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99572651f351a4aa3850b2e5fee529
+      internalID: 1831628124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 805
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e8130fab921b4a92c595fe65e3be9
+      internalID: 542994107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 811
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38966f29ae5b5d849b228a8d84b2df71
+      internalID: -1228254376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 806
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26cef0fcbcc1c48b298f0c4a34e7f9
+      internalID: 555105572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 807
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594a5360c423394092cada5c79dbf13
+      internalID: 343999612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 810
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56722ff9edcea34195202cb4070fb07
+      internalID: -1468288509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 816
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b66460a714be94a8884ebfd8629f95
+      internalID: -865882022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 804
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526491d2f511fa749be1323becdcac87
+      internalID: 27614045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_78
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 809
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ab15704d16e6c45ac38e4417266e21
+      internalID: 546205767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_79
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 804
+        width: 127
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d50beb3bebbf14f9fbdae19cb8584d
+      internalID: 1317069061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 809
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ea26879f1cf540ad2d75fafc754f9
+      internalID: -1033858306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_81
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 809
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a56a051313f748972adb7da8cf583
+      internalID: 498772014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kic1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 807
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d9ac7c83d2424e8893aa31cbac053
+      internalID: -2100371084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kic2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 808
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268080364ac1f847920a6ccd8d0bf41
+      internalID: -508435087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kic3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 812
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a09937aebf084280a58787de85008
+      internalID: -422589730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kcao1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 747
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f57e9e5ea0c14f8cf9ce6b1e18bb7
+      internalID: -1697661936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kcao2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 750
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4898f867a626c4698fb3ba35ab7626
+      internalID: -881924678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kcao3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 753
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434d42c28c32bb64aaeccc5032a0b274
+      internalID: 1468685821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kcao4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 752
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210bf1699e5f2c409e6fcf9434c9544
+      internalID: -156288751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 709
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf79698d323ab948b54aff1d96e1eee
+      internalID: 66149931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 717
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06363096a6de114885570308709f87d
+      internalID: -196745772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_91
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f7082b31647e44b801e420e2f873a
+      internalID: 1253956296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 649
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7db63875365947ab0a1157935880b
+      internalID: -823102537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 653
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8ddabda68992b40a37942a31ab4d0f
+      internalID: 493441077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_94
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 701
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed37dacc96b9f8449a465bd8fd141c7
+      internalID: 739958068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 651
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334e2a3d85c0b34d914d82a63e7d15b
+      internalID: -1004321608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_96
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 653
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf9f629631203a40b2a1e24b263884a
+      internalID: 1241889624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 655
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b42fee9df6d747bf7dd9d91b6d518
+      internalID: 1102216333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_98
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 658
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68707f21f33b004d88188472f0a7815
+      internalID: 211240073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 688
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0f3a11eec163489da3c370681673c
+      internalID: 1401401451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 654
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc62244f03db149a507ff0ccebb9e6
+      internalID: 1242062591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_101
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 655
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96b48430c9cdd74096ad45cca12a70d
+      internalID: 1531997968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_102
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 656
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e44603e0d1404f8bdf88bed5c77e9
+      internalID: -681548952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_103
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 613
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc0ffc4fa2a404f8bbc0e60d5cea0c
+      internalID: 964569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_104
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 577
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf24bde6b071ff41aafa0c4af1f56ce
+      internalID: 564025710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_105
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 609
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c9d8b646e2b34397d4752af417de2
+      internalID: 1130981176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_106
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 598
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65b7a51b9259041a281e3be27c46ff
+      internalID: 494921643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_107
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 483
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401b6636a5716249af3e8ee311fb764
+      internalID: 1439674870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_108
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 574
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0885236a5edd4fa8f079c68aa3576
+      internalID: -846216789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 483
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c58d6615b4f5094f8665604fbd978be
+      internalID: -1061712162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_110
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 482
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1dd0eec468c8e48bd7f4be36a9ccdd
+      internalID: -1984856075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_111
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 485
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1adffcea3dcdba4b98961e7ef4232e5
+      internalID: 1769852873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_112
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 463
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71552f5fd0a152145b0b09b6bce6f2f9
+      internalID: -2037833644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_113
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 488
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871615359ff39164a8ab21ac5c611008
+      internalID: 1721885566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_114
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 508
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4ca629ddfa0f468c7a29490b97e4d
+      internalID: 953116683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 508
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eaad6433b6f0a4aa7a6426c1269f2a
+      internalID: 311125455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_116
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 485
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28277b00262ef6b47aef04c78bae6120
+      internalID: 322281995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_117
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 486
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6eb745ed82b5a4e812b245ff17b8fe
+      internalID: -1559257308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_118
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 485
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b0dc34700f794f81a0ffd78aa0b68
+      internalID: 224256168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 495
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248545de24fa3684cb3772a205faffdc
+      internalID: -961313052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_120
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 360
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a2fbdbfbba0d24299c5e2cf5eb8f5a
+      internalID: 476232354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_121
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 361
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa32b76cc4e7c843b14d69191415720
+      internalID: 1594925859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 355
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ada3d67977e0428687280829d60e9
+      internalID: 1364460192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_123
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 350
+        width: 175
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b00629f08af0ef45b00bc7adc346e38
+      internalID: -1418349723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 381
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea2caff9864e94f972288c233f9df3
+      internalID: -225073762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 375
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b79f48730f00644b58ddf82ae58f70
+      internalID: 438695982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 377
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec3fb4db3334d4f9217ed0a7a55d5d
+      internalID: -1165582071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 379
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a67cca8a4cc6349b8b3478955aaf04
+      internalID: 2089144571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 379
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49990f26f28aa840b36eab849f39528
+      internalID: -721705328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 379
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d75be00866b2504b8c266fb8e482671
+      internalID: 1658183541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_130
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ff4e9e165c45408122ea8716b4f5f
+      internalID: -45209509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_131
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 287
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879cfa744fbe5c24794d0b7feeb2973b
+      internalID: 975813889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_132
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 320
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111394ff45c7014cb7e2925529f2d5c
+      internalID: -826423247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_133
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 329
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c194e78c1d6a0468d7e1477db59dbc
+      internalID: 1767435752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 235
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22686a1e9b96ba444b51b9cf3f721cdf
+      internalID: -722670460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_135
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 318
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb617d8c895772b4185063f848d05ded
+      internalID: -1868466305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_136
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c4dfec9d863e45983a82e4e720505
+      internalID: 1060161666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_137
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74036a9b338a95740ba87fa31a5810be
+      internalID: 450092793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_138
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980b186d110e83418c9089282c6be74
+      internalID: -981990742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 311
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06084ffed01902541bad36a87c1c2c6f
+      internalID: 1635744031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_140
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecef123767e65044a96d00ea95362ef
+      internalID: 1476327843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_141
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a5b5c75da9204da6cd2cb14b2a089
+      internalID: 2014053155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa23f34132df7479e9121c43669bc3
+      internalID: -1927159329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_143
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 291
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1bad8d8d7ed354ea5e2dac53894c0d
+      internalID: -1545168293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_144
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 270
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94731dff99d7950459aa271614e468f5
+      internalID: -1256466732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_145
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 220
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503dab84c065b8446b8851a7c36c0e3a
+      internalID: -1566999953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 262
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e852e2f0047c4a968653985e4d0c6
+      internalID: 242104994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_147
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 228
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb882f484c26834cad69ecdb0598b75
+      internalID: -751606667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_148
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 230
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4115a37295604447b89ea0875b60824
+      internalID: -1920413761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_149
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 231
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a95e839e51f374a99d496082edf46f
+      internalID: -954038204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 236
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8107e465f8a6e047af5ec4946967e13
+      internalID: -78967080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 237
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc59f1d688fea4abffbf9f52ff1bf3
+      internalID: -1814220585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 236
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89a95c03f3efd4e82c86d5b3b557cc
+      internalID: 434966013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 238
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f9e5bc4da47544834ceea056e59ca
+      internalID: -205076679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 176
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34a3376e3465a47a80c9805c21db1a
+      internalID: -954215773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_155
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 218
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e89c7ab17ac0458d9cf376155f522
+      internalID: -1012632911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_156
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f916ae73746b45959ba31576edb39
+      internalID: 1118871905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 156
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014f746085acaa4ca5a3b817d970860
+      internalID: 2078221888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 157
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c4530489cb8346bf3af78865f4c35
+      internalID: 214726310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 157
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307075fa23510384394ef9566933e971
+      internalID: -1131642612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 157
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e6b634f8211b47a90349adab0140e
+      internalID: -1157704525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 157
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca4837b9087d54389c41444b7e1f96
+      internalID: -1384827647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 156
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7cff15119aaf4a87b036ec2034df5
+      internalID: -2086913531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 158
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82cbcf053fac2440a6e35ea5b091590
+      internalID: 1227953439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 158
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d1e209ce722b7428c1107e023c7e55
+      internalID: 181954620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_165
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 389
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d4c9864406ac439c617fa85f80395
+      internalID: -1510259736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_166
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 81
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb420a450541f4da43132c2e2a002f
+      internalID: 47026825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dspites2dddddragon ball5n_167
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 47
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7ed2717f2b2f4d9943a2e51b70654
+      internalID: 951962140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 27
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba6b73b7ea135408ce7149abfb3cf8
+      internalID: -424117266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2dspites2dddddragon ball5n_92: -823102537
+      k1: 2078221888
+      kcao3: 1468685821
+      2dspites2dddddragon ball5n_114: 953116683
+      2dspites2dddddragon ball5n_111: 1769852873
+      2dspites2dddddragon ball5n_95: -1004321608
+      2dspites2dddddragon ball5n_50: -1920430989
+      run3: 434966013
+      2dspites2dddddragon ball5n_9: 2068452002
+      2dspites2dddddragon ball5n_39: -1107887430
+      2dspites2dddddragon ball5n_68: -207999045
+      2dspites2dddddragon ball5n_102: -681548952
+      2dspites2dddddragon ball5n_106: 494921643
+      2dspites2dddddragon ball5n_38: -529561099
+      idle1: -897338128
+      2dspites2dddddragon ball5n_131: 975813889
+      2dspites2dddddragon ball5n_22: 923437144
+      2dspites2dddddragon ball5n_3: 1058478410
+      2dspites2dddddragon ball5n_94: 739958068
+      idle2: -1822911678
+      run2: -1814220585
+      k4: -1157704525
+      2dspites2dddddragon ball5n_166: 47026825
+      2dspites2dddddragon ball5n_117: -1559257308
+      2dspites2dddddragon ball5n_115: 311125455
+      2dspites2dddddragon ball5n_48: 603061238
+      kic2: -508435087
+      2dspites2dddddragon ball5n_165: -1510259736
+      2dspites2dddddragon ball5n_27: 799160366
+      2dspites2dddddragon ball5n_75: -1468288509
+      2dspites2dddddragon ball5n_15: -1907770037
+      k3: -1131642612
+      2dspites2dddddragon ball5n_154: -954215773
+      2dspites2dddddragon ball5n_79: 1317069061
+      2dspites2dddddragon ball5n_100: 1242062591
+      2dspites2dddddragon ball5n_14: 960643169
+      2dspites2dddddragon ball5n_99: 1401401451
+      2dspites2dddddragon ball5n_101: 1531997968
+      k6: -2086913531
+      kcao4: -156288751
+      2dspites2dddddragon ball5n_155: -1012632911
+      2dspites2dddddragon ball5n_17: 2060108309
+      2dspites2dddddragon ball5n_140: 1476327843
+      2dspites2dddddragon ball5n_8: -1964991528
+      2dspites2dddddragon ball5n_4: 762049442
+      2dspites2dddddragon ball5n_90: -196745772
+      a5: -1759311328
+      2dspites2dddddragon ball5n_145: -1566999953
+      run5: -722670460
+      a2: -1117494749
+      dam1: -225073762
+      2dspites2dddddragon ball5n_65: 764559286
+      2dspites2dddddragon ball5n_72: -1228254376
+      a9: -138111715
+      2dspites2dddddragon ball5n_80: -1033858306
+      2dspites2dddddragon ball5n_31: -1430442431
+      2dspites2dddddragon ball5n_2: 1250227853
+      k7: 1227953439
+      2dspites2dddddragon ball5n_96: 1241889624
+      a4: 98058877
+      2dspites2dddddragon ball5n_136: 1060161666
+      2dspites2dddddragon ball5n_71: 542994107
+      2dspites2dddddragon ball5n_77: 27614045
+      2dspites2dddddragon ball5n_7: -1525753879
+      2dspites2dddddragon ball5n_93: 493441077
+      kcao2: -881924678
+      2dspites2dddddragon ball5n_167: 951962140
+      dash1: 1291433339
+      dam4: 2089144571
+      dam6: 1658183541
+      2dspites2dddddragon ball5n_13: -2133026721
+      2dspites2dddddragon ball5n_0: 1314161525
+      2dspites2dddddragon ball5n_142: -1927159329
+      2dspites2dddddragon ball5n_143: -1545168293
+      2dspites2dddddragon ball5n_64: -283902830
+      2dspites2dddddragon ball5n_144: -1256466732
+      2dspites2dddddragon ball5n_98: 211240073
+      k8: 181954620
+      dash4: -268680714
+      2dspites2dddddragon ball5n_74: 343999612
+      run1: -78967080
+      2dspites2dddddragon ball5n_156: 1118871905
+      a8: 474070569
+      2dspites2dddddragon ball5n_89: 66149931
+      a1: 282325878
+      2dspites2dddddragon ball5n_78: 546205767
+      2dspites2dddddragon ball5n_32: 715928514
+      2dspites2dddddragon ball5n_81: 498772014
+      2dspites2dddddragon ball5n_6: 556463690
+      dam5: -721705328
+      2dspites2dddddragon ball5n_149: -954038204
+      2dspites2dddddragon ball5n_53: 965232335
+      2dspites2dddddragon ball5n_105: 1130981176
+      2dspites2dddddragon ball5n_141: 2014053155
+      a7: -990420416
+      2dspites2dddddragon ball5n_35: -813135574
+      dash2: -350394145
+      2dspites2dddddragon ball5n_5: -1573009022
+      a3: -1763117811
+      2dspites2dddddragon ball5n_67: 1207504571
+      k50: -1384827647
+      2dspites2dddddragon ball5n_108: -846216789
+      2dspites2dddddragon ball5n_34: 931970293
+      2dspites2dddddragon ball5n_1: -1551574614
+      2dspites2dddddragon ball5n_29: 200589
+      2dspites2dddddragon ball5n_36: -1473546045
+      2dspites2dddddragon ball5n_45: 804821181
+      2dspites2dddddragon ball5n_24: -1067351386
+      2dspites2dddddragon ball5n_47: 2095304930
+      2dspites2dddddragon ball5n_73: 555105572
+      2dspites2dddddragon ball5n_51: 2007150110
+      2dspites2dddddragon ball5n_135: -1868466305
+      2dspites2dddddragon ball5n_137: 450092793
+      2dspites2dddddragon ball5n_20: -1991805721
+      2dspites2dddddragon ball5n_12: 1512184149
+      2dspites2dddddragon ball5n_30: -752140725
+      2dspites2dddddragon ball5n_46: -1629096401
+      2dspites2dddddragon ball5n_16: 1454803349
+      2dspites2dddddragon ball5n_138: -981990742
+      2dspites2dddddragon ball5n_52: 1277059668
+      2dspites2dddddragon ball5n_91: 1253956296
+      2dspites2dddddragon ball5n_97: 1102216333
+      2dspites2dddddragon ball5n_37: -1675713172
+      a6: -1510343476
+      2dspites2dddddragon ball5n_11: -1805777089
+      2dspites2dddddragon ball5n_33: 1006441986
+      dam3: -1165582071
+      2dspites2dddddragon ball5n_49: -1520135963
+      2dspites2dddddragon ball5n_123: -1418349723
+      2dspites2dddddragon ball5n_147: -751606667
+      2dspites2dddddragon ball5n_122: 1364460192
+      2dspites2dddddragon ball5n_148: -1920413761
+      2dspites2dddddragon ball5n_104: 564025710
+      2dspites2dddddragon ball5n_69: 1831628124
+      2dspites2dddddragon ball5n_110: -1984856075
+      run4: -205076679
+      2dspites2dddddragon ball5n_18: 2138194330
+      2dspites2dddddragon ball5n_109: -1061712162
+      2dspites2dddddragon ball5n_116: 322281995
+      k2: 214726310
+      2dspites2dddddragon ball5n_10: 1229406384
+      2dspites2dddddragon ball5n_120: 476232354
+      2dspites2dddddragon ball5n_107: 1439674870
+      2dspites2dddddragon ball5n_70: -626327060
+      2dspites2dddddragon ball5n_19: -1711506606
+      idle3: -22073542
+      2dspites2dddddragon ball5n_132: -826423247
+      kcao1: -1697661936
+      2dspites2dddddragon ball5n_146: 242104994
+      dash3: 1656459521
+      2dspites2dddddragon ball5n_130: -45209509
+      a10: 1893803529
+      2dspites2dddddragon ball5n_28: -70157768
+      2dspites2dddddragon ball5n_118: 224256168
+      2dspites2dddddragon ball5n_121: 1594925859
+      kic1: -2100371084
+      2dspites2dddddragon ball5n_139: 1635744031
+      kic3: -422589730
+      2dspites2dddddragon ball5n_112: -2037833644
+      2dspites2dddddragon ball5n_113: 1721885566
+      2dspites2dddddragon ball5n_119: -961313052
+      2dspites2dddddragon ball5n_133: 1767435752
+      dam2: 438695982
+      2dspites2dddddragon ball5n_103: 964569732
+      2dspites2dddddragon ball5n_21: 281886252
+      2dspites2dddddragon ball5n_40: -655082564
+      k5: -424117266
+      2dspites2dddddragon ball5n_66: -397954776
+      2dspites2dddddragon ball5n_76: -865882022
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
